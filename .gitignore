@@ -41,6 +41,7 @@ artifacts/
 
 # --- OS / editor ---
 .DS_Store
+.cursor/
 .idea/
 .vscode/
 *.swp
