@@ -1,0 +1,47 @@
+# --- Secrets (never commit) ---
+.env
+.env.*
+!.env.example
+
+# Local credential files
+*.pem
+*.key
+credentials.json
+secrets.json
+service-account*.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# --- Build / packaging ---
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Test / tooling ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Pipeline artifacts ---
+artifacts/
+*.pkl
+*.pickle
+
+# --- OS / editor ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,153 @@
+videojuego,Edad,Sexo,Plataforma,Consumidor_habitual,Presupuesto para invertir
+'Mass Effect',29,Mujer,PC,TRUE,200
+'Sim City',27,Mujer,Otros,TRUE,600
+'Dead Space',22,Hombre,'Xbox',FALSE,200
+'Battlefield',28,Mujer,'Xbox',TRUE,370
+'KOA: Reckoning',30,Mujer,PC,TRUE,100
+'Crysis',17,Hombre,'Play Station',FALSE,300
+'Mass Effect',33,Hombre,Otros,FALSE,20
+'Battlefield',52,Hombre,PC,TRUE,900
+'Mass Effect',21,Hombre,'Play Station',TRUE,500
+'Fifa',14,Hombre,'Play Station',TRUE,175
+'F1',34,Hombre,'Play Station',TRUE,1200
+'Crysis',30,Hombre,PC,FALSE,60
+'Sim City',37,Mujer,PC,FALSE,100
+'Fifa',25,Hombre,'Play Station',TRUE,310
+'Mass Effect',24,Mujer,'Xbox',TRUE,900
+'Fifa',16,Mujer,PC,TRUE,250
+'Mass Effect',15,Hombre,'Play Station',TRUE,150
+'Crysis',16,Mujer,'Xbox',TRUE,340
+'KOA: Reckoning',25,Hombre,'Play Station',TRUE,100
+'Battlefield',26,Hombre,Otros,FALSE,70
+'Mass Effect',26,Hombre,'Play Station',FALSE,50
+'Sim City',44,Hombre,'Play Station',TRUE,230
+'Battlefield',39,Hombre,'Play Station',TRUE,750
+'KOA: Reckoning',17,Mujer,'Play Station',TRUE,150
+'Fifa',37,Hombre,'Xbox',FALSE,30
+'Dead Space',18,Mujer,'Play Station',TRUE,420
+'Mass Effect',24,Hombre,PC,TRUE,300
+'KOA: Reckoning',33,Hombre,'Xbox',TRUE,400
+'Crysis',21,Hombre,Otros,TRUE,100
+'F1',21,Mujer,'Play Station',TRUE,500
+'KOA: Reckoning',33,Hombre,PC,FALSE,100
+'Sim City',26,Mujer,'Xbox',TRUE,400
+'Fifa',15,Hombre,PC,FALSE,100
+'Fifa',19,Hombre,Otros,TRUE,400
+'Mass Effect',48,Hombre,'Play Station',TRUE,950
+'Mass Effect',35,Mujer,'Xbox',TRUE,800
+'Crysis',36,Hombre,'Xbox',TRUE,320
+'Dead Space',51,Hombre,'Xbox',TRUE,200
+'Mass Effect',29,Mujer,PC,TRUE,200
+'Sim City',27,Mujer,Otros,TRUE,600
+'Dead Space',22,Hombre,'Xbox',FALSE,200
+'Battlefield',28,Mujer,'Xbox',TRUE,370
+'KOA: Reckoning',30,Mujer,PC,TRUE,100
+'Crysis',17,Hombre,'Play Station',FALSE,300
+'Mass Effect',33,Hombre,Otros,FALSE,20
+'Battlefield',52,Hombre,PC,TRUE,900
+'Mass Effect',21,Hombre,'Play Station',TRUE,500
+'Fifa',14,Hombre,'Play Station',TRUE,175
+'F1',34,Hombre,'Play Station',TRUE,1200
+'Crysis',30,Hombre,PC,FALSE,60
+'Sim City',37,Mujer,PC,FALSE,100
+'Fifa',25,Hombre,'Play Station',TRUE,310
+'Mass Effect',24,Mujer,'Xbox',TRUE,900
+'Fifa',16,Mujer,PC,TRUE,250
+'Mass Effect',15,Hombre,'Play Station',TRUE,150
+'Crysis',16,Mujer,'Xbox',TRUE,340
+'KOA: Reckoning',25,Hombre,'Play Station',TRUE,100
+'Battlefield',26,Hombre,Otros,FALSE,70
+'Mass Effect',26,Hombre,'Play Station',FALSE,50
+'Sim City',44,Hombre,'Play Station',TRUE,230
+'Battlefield',39,Hombre,'Play Station',TRUE,750
+'KOA: Reckoning',17,Mujer,'Play Station',TRUE,150
+'Fifa',37,Hombre,'Xbox',FALSE,30
+'Dead Space',18,Mujer,'Play Station',TRUE,420
+'Mass Effect',24,Hombre,PC,TRUE,300
+'KOA: Reckoning',33,Hombre,'Xbox',TRUE,400
+'Crysis',21,Hombre,Otros,TRUE,100
+'F1',21,Mujer,'Play Station',TRUE,500
+'KOA: Reckoning',33,Hombre,PC,FALSE,100
+'Sim City',26,Mujer,'Xbox',TRUE,400
+'Fifa',15,Hombre,PC,FALSE,100
+'Fifa',19,Hombre,Otros,TRUE,400
+'Mass Effect',48,Hombre,'Play Station',TRUE,950
+'Mass Effect',35,Mujer,'Xbox',TRUE,800
+'Crysis',36,Hombre,'Xbox',TRUE,320
+'Dead Space',51,Hombre,'Xbox',TRUE,200
+'Mass Effect',29,Mujer,PC,TRUE,200
+'Sim City',27,Mujer,Otros,TRUE,600
+'Dead Space',22,Hombre,'Xbox',FALSE,200
+'Battlefield',28,Mujer,'Xbox',TRUE,370
+'KOA: Reckoning',30,Mujer,PC,TRUE,100
+'Crysis',17,Hombre,'Play Station',FALSE,300
+'Mass Effect',33,Hombre,Otros,FALSE,20
+'Battlefield',52,Hombre,PC,TRUE,900
+'Mass Effect',21,Hombre,'Play Station',TRUE,500
+'Fifa',14,Hombre,'Play Station',TRUE,175
+'F1',34,Hombre,'Play Station',TRUE,1200
+'Crysis',30,Hombre,PC,FALSE,60
+'Sim City',37,Mujer,PC,FALSE,100
+'Fifa',25,Hombre,'Play Station',TRUE,310
+'Mass Effect',24,Mujer,'Xbox',TRUE,900
+'Fifa',16,Mujer,PC,TRUE,250
+'Mass Effect',15,Hombre,'Play Station',TRUE,150
+'Crysis',16,Mujer,'Xbox',TRUE,340
+'KOA: Reckoning',25,Hombre,'Play Station',TRUE,100
+'Battlefield',26,Hombre,Otros,FALSE,70
+'Mass Effect',26,Hombre,'Play Station',FALSE,50
+'Sim City',44,Hombre,'Play Station',TRUE,230
+'Battlefield',39,Hombre,'Play Station',TRUE,750
+'KOA: Reckoning',17,Mujer,'Play Station',TRUE,150
+'Fifa',37,Hombre,'Xbox',FALSE,30
+'Dead Space',18,Mujer,'Play Station',TRUE,420
+'Mass Effect',24,Hombre,PC,TRUE,300
+'KOA: Reckoning',33,Hombre,'Xbox',TRUE,400
+'Crysis',21,Hombre,Otros,TRUE,100
+'F1',21,Mujer,'Play Station',TRUE,500
+'KOA: Reckoning',33,Hombre,PC,FALSE,100
+'Sim City',26,Mujer,'Xbox',TRUE,400
+'Fifa',15,Hombre,PC,FALSE,100
+'Fifa',19,Hombre,Otros,TRUE,400
+'Mass Effect',48,Hombre,'Play Station',TRUE,950
+'Mass Effect',35,Mujer,'Xbox',TRUE,800
+'Crysis',36,Hombre,'Xbox',TRUE,320
+'Dead Space',51,Hombre,'Xbox',TRUE,200
+'Mass Effect',29,Mujer,PC,TRUE,200
+'Sim City',27,Mujer,Otros,TRUE,600
+'Dead Space',22,Hombre,'Xbox',FALSE,200
+'Battlefield',28,Mujer,'Xbox',TRUE,370
+'KOA: Reckoning',30,Mujer,PC,TRUE,100
+'Crysis',17,Hombre,'Play Station',FALSE,300
+'Mass Effect',33,Hombre,Otros,FALSE,20
+'Battlefield',52,Hombre,PC,TRUE,900
+'Mass Effect',21,Hombre,'Play Station',TRUE,500
+'Fifa',14,Hombre,'Play Station',TRUE,175
+'F1',34,Hombre,'Play Station',TRUE,1200
+'Crysis',30,Hombre,PC,FALSE,60
+'Sim City',37,Mujer,PC,FALSE,100
+'Fifa',25,Hombre,'Play Station',TRUE,310
+'Mass Effect',24,Mujer,'Xbox',TRUE,900
+'Fifa',16,Mujer,PC,TRUE,250
+'Mass Effect',15,Hombre,'Play Station',TRUE,150
+'Crysis',16,Mujer,'Xbox',TRUE,340
+'KOA: Reckoning',25,Hombre,'Play Station',TRUE,100
+'Battlefield',26,Hombre,Otros,FALSE,70
+'Mass Effect',26,Hombre,'Play Station',FALSE,50
+'Sim City',44,Hombre,'Play Station',TRUE,230
+'Battlefield',39,Hombre,'Play Station',TRUE,750
+'KOA: Reckoning',17,Mujer,'Play Station',TRUE,150
+'Fifa',37,Hombre,'Xbox',FALSE,30
+'Dead Space',18,Mujer,'Play Station',TRUE,420
+'Mass Effect',24,Hombre,PC,TRUE,300
+'KOA: Reckoning',33,Hombre,'Xbox',TRUE,400
+'Crysis',21,Hombre,Otros,TRUE,100
+'F1',21,Mujer,'Play Station',TRUE,500
+'KOA: Reckoning',33,Hombre,PC,FALSE,100
+'Sim City',26,Mujer,'Xbox',TRUE,400
+'Fifa',15,Hombre,PC,FALSE,100
+'Fifa',19,Hombre,Otros,TRUE,400
+'Mass Effect',48,Hombre,'Play Station',TRUE,950
+'Mass Effect',35,Mujer,'Xbox',TRUE,800
+'Crysis',36,Hombre,'Xbox',TRUE,320
+'Dead Space',51,Hombre,'Xbox',TRUE,200
